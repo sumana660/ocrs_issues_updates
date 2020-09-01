@@ -1,0 +1,7 @@
+1: Login as user/police. complaint details, after deleting complaint getting an error
+2: remove police
+3: restrict police adding.
+4: restrict complaint to police whos belongs to the perticular police_station
+5: Registration page validation
+6: Check- whether admin can add already existing user or not.
+https://github.com/nayanamsalian/ocrs_rep
